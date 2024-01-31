@@ -4,11 +4,12 @@
   "description": "This is a binary search algorithm in javascript",
   "main": "index.js",
   "type": "module",
+  "repository": "https://github.com/aayusharyan/binary_search",
   "scripts": {
     "test": "node test.js",
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Aayush Sinha and Team",
+  "author": "Aayush Sinha",
   "license": "ISC"
 }
